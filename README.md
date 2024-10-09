@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Budget-App-Frontend
+React, Google Charts API etc used
+
+This is not meant to be used either, due to privacy etc there was removal for my backend environmental variables, keys and transactional information, therefore backend ...
+... will NOT work. The frontend would be a static experience not worth running dependencies for.
+
+Instead, read the code to determine how you would interact with the Plaid API and middleware with React
+>>>>>>> origin/main
